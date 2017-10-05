@@ -1,5 +1,5 @@
 # Binary Full Adder
-##An open hardware implementation of a binary full adder.
+## An open hardware implementation of a binary full adder.
 
 A simple collection of documents for beginners to electronics and PCB design to learn from. This was my first attempt to learn how to use EAGLE for my own projects. Information on the net is actually fairly sparse regarding adder-as-PCB implementations, so I thought I may as well fix that. There's a lot to learn from this simple schematic about gates, and how to bring your ideas to reality using CAD software.
 
